@@ -23,3 +23,4 @@
 ```html
 https://netology-code.github.io/git-homeworks/introduction/assets/logo.png
 ```
+Зафиксировано пару изменений, тк я скопировал с друго текстового редактора. Что то пошло не так)
